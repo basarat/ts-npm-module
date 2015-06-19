@@ -1,0 +1,26 @@
+{
+  "name": "ts-npm-module",
+  "version": "1.0.1",
+  "description": "A sample TypeScript npm module",
+  "main": "js/index.js",
+  "typescript":{
+    "definition":"ts-npm-module.d.ts"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basarat/ts-npm-module.git"
+  },
+  "keywords": [
+    "typescript",
+    "atom"
+  ],
+  "author": "basaratali@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basarat/ts-npm-module/issues"
+  },
+  "homepage": "https://github.com/basarat/ts-npm-module#readme"
+}

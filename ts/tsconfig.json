@@ -17,6 +17,8 @@
     "files": [
         "./deep/deeper/bar.ts",
         "./deep/foo.ts",
-        "./index.ts"
+        "./index.ts",
+        "./typings/node/node.d.ts",
+        "./typings/tsd.d.ts"
     ]
 }

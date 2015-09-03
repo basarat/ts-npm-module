@@ -7,6 +7,7 @@
         "removeComments": true,
         "noLib": false,
         "preserveConstEnums": true,
+        "declaration": true,
         "suppressImplicitAnyIndexErrors": true,
         "outDir": "../js"
     },

@@ -1,9 +1,9 @@
 {
   "name": "ts-npm-module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A sample TypeScript npm module",
   "main": "js/index.js",
-  "typings":"js",
+  "typings": "js/index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
